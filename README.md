@@ -42,7 +42,7 @@
 ###
 
 
-<div align="center" style="display: inline-block; margin-right: 50px;">
+<div align="center">
   <a href="https://www.facebook.com/promaruf.fb" target="_blank">
     <img width="52" height="52" alt="Facebook" src="https://github.com/user-attachments/assets/b742a04b-a71e-46aa-b3c0-fc637de7fafd" />
   </a>
