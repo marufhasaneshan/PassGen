@@ -11,7 +11,8 @@
 ###
 
 
-![Screenshot 2023-07-22 144457](https://github.com/the-psycoder/Passgen/assets/140235168/0c62a6e1-7359-4096-83ac-dd620e7a05aa)
+<img width="761" height="221" alt="Screenshot 2026-10-19 181357" src="https://github.com/user-attachments/assets/a7819fb7-4b52-4768-802a-67c2828fb6f3" />
+
 
 
 ###
@@ -22,7 +23,7 @@
 
 
 
-![Screenshot 2023-07-22 152636](https://github.com/the-psycoder/Passgen/assets/140235168/ac88b259-f6a9-4db9-ab57-5cd91efe3498)
+<img width="1156" height="326" alt="Screenshot 2026-10-19 181441" src="https://github.com/user-attachments/assets/ba71617f-280d-46d0-90dc-20990a0f5731" />
 
 
 
