@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="800" height="373" alt="passgen-img" src="https://github.com/user-attachments/assets/94b0ee98-83a0-4016-aa37-fd7a898d3b1b" />
+</div>
+
 <h1 align="center">What Is Passgen?</h1>
 
 ###
@@ -10,10 +14,9 @@
 
 ###
 
-
-<img width="761" height="221" alt="Screenshot 2026-10-19 181357" src="https://github.com/user-attachments/assets/a7819fb7-4b52-4768-802a-67c2828fb6f3" />
-
-
+<div align="center">
+  <img width="761" height="221" alt="Screenshot 2026-10-19 181357" src="https://github.com/user-attachments/assets/a7819fb7-4b52-4768-802a-67c2828fb6f3" />
+</div>
 
 ###
 
@@ -22,9 +25,9 @@
 ###
 
 
-
-<img width="1156" height="326" alt="Screenshot 2026-10-19 181441" src="https://github.com/user-attachments/assets/ba71617f-280d-46d0-90dc-20990a0f5731" />
-
+<div align="center">
+  <img width="1156" height="326" alt="Screenshot 2026-10-19 181441" src="https://github.com/user-attachments/assets/ba71617f-280d-46d0-90dc-20990a0f5731" />
+</div>
 
 
 ###
