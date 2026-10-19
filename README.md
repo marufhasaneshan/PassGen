@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Passgen is a small and simple password-based Python project made by Maruf Hasan (@the-psycoder). This project will help you to make strong passwords for your accounts on any social media platform like Facebook, Instagram, Twitter, and so on. But the specialty of this project is, you can generate passwords based on some questions related to you. Let's dive into this project and learn more about it.</p>
+<p align="center">Passgen is a small and simple password-based Python project made by Maruf Hasan (@promaruf). This project will help you to make strong passwords for your accounts on any social media platform like Facebook, Instagram, Twitter, and so on. But the specialty of this project is, you can generate passwords based on some questions related to you. Let's dive into this project and learn more about it.</p>
 
 ###
 
