@@ -41,9 +41,13 @@
 
 ###
 
-<div align="center">
+
+<div align="center" style="display: inline-block; margin-right: 50px;">
   <a href="https://www.facebook.com/promaruf.fb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img width="52" height="52" alt="Facebook" src="https://github.com/user-attachments/assets/b742a04b-a71e-46aa-b3c0-fc637de7fafd" />
+  </a>
+  <a href="https://www.instagram.com/promaruf.ig" target="_blank">
+    <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/005c9855-aac4-4723-9a12-33ee77f6e3bb" />
   </a>
 </div>
 
