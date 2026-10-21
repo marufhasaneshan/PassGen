@@ -40,18 +40,13 @@
 
 ###
 
-<h1 align="center">Social</h1>
+<h1 align="center">Find me online</h1>
 
 ###
 
 
 <div align="center">
-  <a href="https://www.facebook.com/promaruf.fb" target="_blank">
-    <img width="52" height="52" alt="Facebook" src="https://github.com/user-attachments/assets/b742a04b-a71e-46aa-b3c0-fc637de7fafd" />
-  </a>
-  <a href="https://www.instagram.com/promaruf.ig" target="_blank">
-    <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/005c9855-aac4-4723-9a12-33ee77f6e3bb" />
-  </a>
+ <a href="https://promaruf.is-a.dev"><img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website"/></a> <a href="https://github.com/promaruf"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a> <a href="https://www.facebook.com/promaruf.fb"><img src="https://img.shields.io/badge/FACEBOOK-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"/></a> <a href="https://www.instagram.com/promaruf.ig"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/></a> <a href="https://vsco.co/pomaruf"><img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=vsco&logoColor=000000" alt="VSCO"/></a>
 </div>
 
 ###
