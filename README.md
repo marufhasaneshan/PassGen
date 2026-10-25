@@ -46,7 +46,7 @@
 
 
 <div align="center">
- <a href="https://marufhasaneshan.is-a.dev"><img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website"/></a> <a href="https://github.com/marufhasaneshan"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a> <a href="https://www.facebook.com/marufhasaneshan"><img src="https://img.shields.io/badge/FACEBOOK-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"/></a> <a href="https://www.instagram.com/marufhasaneshan"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/></a> <a href="https://vsco.co/marufhasaneshan"><img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=vsco&logoColor=000000" alt="VSCO"/></a>
+ <a href="https://marufhasan.is-a.dev"><img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website"/></a> <a href="https://github.com/marufhasaneshan"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a> <a href="https://www.facebook.com/marufhasaneshan"><img src="https://img.shields.io/badge/FACEBOOK-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"/></a> <a href="https://www.instagram.com/marufhasaneshan"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/></a> <a href="https://vsco.co/marufhasaneshan"><img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=vsco&logoColor=000000" alt="VSCO"/></a>
 </div>
 
 ###
