@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="800" height="373" alt="passgen-img" src="https://github.com/user-attachments/assets/94b0ee98-83a0-4016-aa37-fd7a898d3b1b" />
+  <img width="800" height="372" alt="passgen-img-git" src="https://github.com/user-attachments/assets/bd87fc3a-e64b-4aa0-85dc-fa3007375dad" />
 </div>
 
-<h1 align="center">What Is Passgen?</h1>
+<h1 align="center">What Is PassGen?</h1>
 
 ###
 
-<p align="center">Passgen is a small and simple password-based Python project made by Maruf Hasan (@promaruf). This project will help you to make strong passwords for your accounts on any social media platform like Facebook, Instagram, Twitter, and so on. But the specialty of this project is, you can generate passwords based on some questions related to you. Let's dive into this project and learn more about it.</p>
+<p align="center">PassGen is a small and simple password-based Python project made by Maruf Hasan (@marufhasaneshan). This project will help you to make strong passwords for your accounts on any social media platform like Facebook, Instagram, Twitter, and so on. But the specialty of this project is, you can generate passwords based on some questions related to you. Let's dive into this project and learn more about it.</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 
 <div align="center">
- <a href="https://promaruf.is-a.dev"><img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website"/></a> <a href="https://github.com/promaruf"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a> <a href="https://www.facebook.com/promaruf.fb"><img src="https://img.shields.io/badge/FACEBOOK-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"/></a> <a href="https://www.instagram.com/promaruf.ig"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/></a> <a href="https://vsco.co/pomaruf"><img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=vsco&logoColor=000000" alt="VSCO"/></a>
+ <a href="https://marufhasaneshan.is-a.dev"><img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website"/></a> <a href="https://github.com/marufhasaneshan"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a> <a href="https://www.facebook.com/marufhasaneshan"><img src="https://img.shields.io/badge/FACEBOOK-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"/></a> <a href="https://www.instagram.com/marufhasaneshan"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/></a> <a href="https://vsco.co/marufhasaneshan"><img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=vsco&logoColor=000000" alt="VSCO"/></a>
 </div>
 
 ###
