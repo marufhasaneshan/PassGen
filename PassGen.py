@@ -1,6 +1,6 @@
 # Hello, I'm Maruf Hasan, the developer of this short and simple project. This is a password generating project.
 # The specialty of this project is generating passwords based on user interrogation. User can also be able to generate random passwords.
-# Don't forget to visit my GITHUB - @promaruf, FACEBOOK - @promaruf.fb, INSTAGRAM - @promaruf.ig
+# Don't forget to visit my GITHUB - @marufhasaneshan, FACEBOOK - @marufhasaneshan, INSTAGRAM - @marufhasaneshan
 # Thank you for reading!
 
 import subprocess, os
@@ -46,7 +46,7 @@ def rangen():
         rd.shuffle(ranlist)
         password = "".join(ranlist[0:passlen])
         print(hint3 + color.GREEN + password, passpower(password))
-        print(color.BLUE + "\nThank you for using this tool\nMaruf Hasan (@promaruf)\n" + color.RESET)
+        print(color.BLUE + "\nThank you for using this tool\nMaruf Hasan (@marufhasaneshan)\n" + color.RESET)
     elif passlen < 8:
         print(color.RED + "\nYou have entered less length amount, less length amount of your password can be hacked!\nTry again!\n")
         rangen()
@@ -58,7 +58,7 @@ def rangen():
         rangen()
     
 def quegen():
-    print(color.BLUE + "\nNOTE : This password generating system has developed by Maruf Hasan (@promaruf) named 'Interrogation Based Password Generator'.\nIt generates super strong passwords based on some questions related to user and the generated password is easy to memorize.\n")
+    print(color.BLUE + "\nNOTE : This password generating system has developed by Maruf Hasan (@marufhasaneshan) named 'Interrogation Based Password Generator'.\nIt generates super strong passwords based on some questions related to user and the generated password is easy to memorize.\n")
     que1 = str(input(hint4 + color.YELLOW)).upper()
     que2 = str(input(hint5 + color.YELLOW))
     que3 = str(input(hint6 + color.YELLOW))
@@ -73,7 +73,7 @@ def quegen():
     numranmize = "".join(numlist[:])
     password = f">1@M~{que1}~C0dE~{numranmize}~&1@M~{que2}0LD~IL0vE{que4}<"
     print(hint3 + color.GREEN + password, passpower(password))
-    print(color.BLUE + "\nThank you for using this tool\nMaruf Hasan (@promaruf)\n" + color.RESET)
+    print(color.BLUE + "\nThank you for using this tool\nMaruf Hasan (@marufhasaneshan)\n" + color.RESET)
 
 def passpower(password):
     passlength = len(password)
